@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/spencer-h-walker-banner.svg" width="100%" alt="Spencer H. Walker. What Counts as Understanding? An editorial charcoal and copper banner illustrating observation, inference, and calibrated trust." />
+  <img src="./assets/spencer-h-walker-banner.svg" width="100%" alt="Spencer H. Walker. What Counts as Understanding? A light editorial graphite-and-copper banner illustrating observation, inference, and calibrated trust." />
 </div>
 
 # Spencer H. Walker
