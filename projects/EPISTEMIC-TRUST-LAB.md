@@ -49,6 +49,8 @@ The current 5,760 evaluations are synthetic-policy runs, **not 5,760 human trial
 4. Develop a consent-based, institutionally authorized human-participant protocol before making claims about trust calibration, perceived understanding, or user behavior.
 5. Publish exact configuration, raw or appropriately de-identified outputs, uncertainty estimates, limitations, and negative findings for inspection.
 
+**New related infrastructure:** The [Nurowerx Research Stack](./RESEARCH-STACK.md) developer report confirms a **read-only ETL import**, with ETL left unchanged. This reported data integration is separate from, and does not validate, ETL's proposed live-model or human-participant research.
+
 ## Relationship to other work
 
 This independent project builds on a proposed [research agenda on conversational memory, naturalistic speech, and epistemic trust](https://github.com/SWALKERNURO/living-field/blob/main/research/HUMAN-AI-INTERACTION-AGENDA.md). It is separate from the [Living Field](https://github.com/SWALKERNURO/living-field), [Flux EEG](https://github.com/SWALKERNURO/flux-eeg), and [Pink Noise Relational Field](https://github.com/SWALKERNURO/pink-noise-relational-field) EEG/EOG and acoustic research instruments.
