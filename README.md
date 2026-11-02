@@ -47,6 +47,7 @@ My academic and technical interests bring together philosophical argument, cogni
 - [Hugging Face MCP Course, Unit 1: Fundamentals of MCP](./credentials/mcp-fundamentals-unit-1.pdf) — certificate of achievement (2026).
 - [Hugging Face MCP Course, Unit 3: MCP for Production Automation](./credentials/mcp-production-automation-unit-3.pdf) — certificate of achievement (2026).
 - [Kaggle: Machine Learning Explainability](./credentials/kaggle-machine-learning-explainability.png) — certificate of completion (2026).
+- [Kaggle: Intermediate Machine Learning](./credentials/kaggle-intermediate-machine-learning.png) — certificate of completion (2026).
 - [Hugging Face Agents Course](https://huggingface.co/agents-course) — Certificate of Excellence.
 - [University of Helsinki: Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/30bf26e52f85fb19c9458e01a077db9a).
 - [University of Helsinki: Ethics of AI](https://certificates.mooc.fi/validate/zt7sc83r99t).
