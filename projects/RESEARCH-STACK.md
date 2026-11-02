@@ -1,24 +1,28 @@
 # Nurowerx Research Stack
+
 ### TRACE · LOOP · LENS · FRAME
 
-**Research and engineering portfolio | November 2026**
+**[Nurowerx Research Stack](https://github.com/Nurowerx/research-stack)** is public research software connecting evidence provenance, deterministic evaluation, scientific visualization and reviewed corrections through **TRACE · LOOP · LENS · FRAME**.
 
-The **Nurowerx Research Stack** is an implemented local research software ecosystem focused on traceable connections between information, computational behavior, evidence, evaluation, and human review.
+**[v0.1.0 — Initial Public Research Release](https://github.com/Nurowerx/research-stack/releases/tag/v0.1.0)** includes complete source, NRS-Bench, versioned synthetic datasets, three technical reports and reproduction instructions. **54 automated tests passed** (35 backend, 12 visualization, 7 browser); clean reproduction passed on Windows, Linux and macOS. The historical 31-test development baseline is preserved separately.
 
-| Component | Research focus |
-| --- | --- |
-| TRACE | Research ontology, claim/evidence relationships, source provenance, versions |
-| LOOP | Reproducible evaluation, benchmark comparison, recorded correction, reruns |
-| LENS | Data visualization, comparisons, provenance-aware inspection |
-| FRAME | Human-centered research workspace and analytical interface |
+**Research scope:** Three seeds and 18 controlled synthetic executions; no real-model or human-user study, peer review or independent-party replication is claimed. Software is MIT; original datasets and papers are CC BY 4.0. Archival metadata is prepared; no DOI has been issued.
 
-**End-to-end workflow:** dataset → evaluation → reviewed correction → rerun → report.
+[Installation](https://github.com/Nurowerx/research-stack/blob/v0.1.0/docs/installation/README.md) · [Methods and raw evidence](https://github.com/Nurowerx/research-stack/blob/v0.1.0/docs/validation/README.md) · [Technical papers](https://github.com/Nurowerx/research-stack/tree/v0.1.0/research/papers) · [Static results demo](https://nurowerx.github.io/research-stack/) · [Citation](https://github.com/Nurowerx/research-stack/blob/v0.1.0/CITATION.cff)
 
-### Verification reported by the local build
+## Engineering and research contribution
 
-The project's November 2, 2026 completion summary reports **31 passing tests**, including browser, accessibility, and mobile coverage; a verified clean-install reproduction of reports; and a verified **read-only Epistemic Trust Lab import** with existing projects unchanged.
+The application connects dataset → evaluation → reviewed correction → rerun → report, preserving source records and prior outcomes. TRACE provides typed versioned relationships and validated graph exchange; LOOP records actual policy executions and review history; LENS links numerical marks to evidence; FRAME integrates inspection, annotations, saved layouts and report preview/export.
 
-**Evidence status:** These figures and outcomes come from the developer's local build report. They have not been independently audited against the source ZIP and actual engineering report as part of this public overview. No claim of external replication, scientifically validated findings, or operational deployment is made.
+NRS-Bench uses original known-answer fixtures, deliberate invalid controls, paired full/affected comparisons and independent numerical chart oracles. Per 60-case development split, first-match scores 10/60, evidence-aware 60/60 and the reviewed prefer-latest full rerun 30/60. The selected affected case scores 1/1 and is reported separately. Repeated calls are not additional independent cases.
+
+![Actual Research Stack workspace](https://raw.githubusercontent.com/Nurowerx/research-stack/v0.1.0/docs/screenshots/research-overview.png)
+
+## Reproducibility and scholarly record
+
+[Raw reports](https://github.com/Nurowerx/research-stack/tree/v0.1.0/research/results), [dataset manifests](https://github.com/Nurowerx/research-stack/tree/v0.1.0/datasets), [engineering report](https://github.com/Nurowerx/research-stack/blob/v0.1.0/docs/engineering-report.md) and [security audit](https://github.com/Nurowerx/research-stack/blob/v0.1.0/docs/security/audit.md) are public. The static demo displays exported results; install the full application to execute evaluations and corrections.
+
+Author: Spencer H. Walker, Nurowerx; [ORCID 0009-0005-3574-1057](https://orcid.org/0009-0005-3574-1057). Work used AI-assisted implementation and manuscript preparation with executed validation. No university sponsorship or ethics approval is asserted. See [archiving status](https://github.com/Nurowerx/research-stack/blob/v0.1.0/research/archive/README.md) for separate software, dataset and paper metadata.
 
 ### Relationship to existing work
 
@@ -26,10 +30,3 @@ The project's November 2, 2026 completion summary reports **31 passing tests**, 
 - [Resident Model Lab](https://github.com/Nurowerx/.github/blob/main/profile/research/RESIDENT-MODEL-LAB.md): potential future provenance and evaluation integration; **not confirmed implemented**.
 - [VEYDRIS](./VEYDRIS.md): potential future data-provenance/analysis integration; **not confirmed implemented**.
 
-### Source and availability
-
-The complete source ZIP, engineering report, and runnable application are **currently local** to the project owner, not publicly downloadable on GitHub. A loopback local address is not an internet-facing live demo. Future organization repositories are not yet created.
-
-**[Nurowerx organization research overview](https://github.com/Nurowerx/.github/blob/main/profile/research/RESEARCH-STACK.md)** · **[Nurowerx Technical Work](https://nurowerx.com/technical-work#research-stack)**
-
-This is engineering work, not a claim of University of Denver or CU Boulder sponsorship, approval, or supervision.
