@@ -18,6 +18,8 @@ VEYDRIS is a locally implemented video-analysis prototype featuring real object 
 
 **Not yet implemented or verified:** Live drone connections and real geolocation remain future development. Docker/PostGIS configuration is present in the local archive, but has **not been runtime-tested**. The synthetic map does not indicate true tracked locations.
 
+**Related research infrastructure:** The [Nurowerx Research Stack](./RESEARCH-STACK.md) supports independent provenance and evaluation workflows; **no VEYDRIS integration is currently reported or verified**. Any future linkage remains a separate implementation effort.
+
 **Publication:** The full application, model, and sample package still reside locally; there is **no public source repository or online demonstration** identified by this document. Local authentication credentials and private Windows paths are intentionally omitted.
 
 **[Nurowerx technical overview](https://github.com/Nurowerx/.github/blob/main/profile/research/VEYDRIS.md)** · [Nurowerx website](https://nurowerx.com/technical-work)
