@@ -34,6 +34,15 @@ This is a **proposed interdisciplinary study**, not a report of completed experi
 
 These projects emphasize the distinction between **measured signals, interpretations, and hypotheses**. The EEG work is exploratory; it does not establish a clinical diagnosis, a causal theory of consciousness, or a validated consciousness measure.
 
+## AI & software credentials
+
+- **[Harvard CS50: Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/0d86c122-ee78-41d1-a2a1-274c6548ac1c)** — completed 12 projects.
+- **[Hugging Face: Agents Course](https://huggingface.co/agents-course)** — Certificate of Excellence.
+- **[University of Helsinki: Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/30bf26e52f85fb19c9458e01a077db9a)**.
+- **[University of Helsinki: Ethics of AI](https://certificates.mooc.fi/validate/zt7sc83r99t)**.
+- **[UNESCO / LG AI Research: Global MOOC on the Ethics of AI](https://coursera.org/verify/LO9X8AT36AFM)**.
+- **[Microsoft / freeCodeCamp: Foundational C# Developer Certification](https://freecodecamp.org/certification/shwalker/foundational-c-sharp-with-microsoft)**.
+
 ## Areas of interest
 
 `Philosophy of mind` · `Epistemology` · `Cognitive science` · `Human–AI interaction` · `Epistemic trust` · `EEG / EOG` · `Aperiodic neural dynamics` · `Research methodology` · `Responsible AI`
