@@ -33,6 +33,7 @@ This is a **proposed interdisciplinary study**, not a report of completed experi
 | **[Living Field](https://github.com/SWALKERNURO/living-field)** | Exploratory EEG/EOG research visualization, aperiodic (1/f-like) dynamics, and comparisons across recording conditions. |
 | **[Pink Noise Relational Field / NoiseColor](https://github.com/SWALKERNURO/pink-noise-relational-field)** | Measured EEG/EOG temporal visualization and local-first audio spectral-color analysis with inspectable diagnostics. **[Try NoiseColor](https://swalkernuro.github.io/pink-noise-relational-field/noisecolor/)**. |
 | **[Flux EEG](https://github.com/SWALKERNURO/flux-eeg)** | Local-first EEG spectral analysis and experimental workflows emphasizing provenance, transparent methods, and reproducibility. |
+| **[Resident Model Lab (Nurowerx)](https://github.com/Nurowerx/.github/blob/main/profile/research/RESIDENT-MODEL-LAB.md)** | Experimental local MoE inference software studying GPU expert residency and accuracy–memory tradeoffs. Working exact and adaptive modes; early adaptive-selection quality limitations are openly reported. Company research; source code not publicly released. |
 
 These projects emphasize the distinction between **measured signals, interpretations, and hypotheses**. The EEG work is exploratory; it does not establish a clinical diagnosis, a causal theory of consciousness, or a validated consciousness measure.
 
