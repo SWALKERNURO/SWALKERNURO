@@ -1,6 +1,8 @@
-<p align="center">
+<div align="center">
+
 <img src="./assets/nurowerx-github-banner.svg" width="100%" alt="NUROWERX — THE NEXT FRONTIER IS HUMAN. Charcoal and warm-orange editorial banner with a schematic of context, inference, and human agency." />
-</p>
+
+</div>
 
 # Spencer H. Walker
 
