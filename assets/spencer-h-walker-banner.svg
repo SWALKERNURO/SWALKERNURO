@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="560" viewBox="0 0 1800 560" role="img" aria-labelledby="title description">
+<title id="title">Spencer H. Walker — What Counts as Understanding?</title>
+<desc id="description">An editorial graphite and copper personal research banner matching Nurowerx's design system. A question about understanding occupies the left. A schematic maps evidence, inference, and judgment on the right.</desc>
+<rect width="1800" height="560" fill="#111315"/>
+<g stroke="#F6F5F1" stroke-opacity=".032" stroke-width="1"><path d="M0 0V560"/><path d="M100 0V560"/><path d="M200 0V560"/><path d="M300 0V560"/><path d="M400 0V560"/><path d="M500 0V560"/><path d="M600 0V560"/><path d="M700 0V560"/><path d="M800 0V560"/><path d="M900 0V560"/><path d="M1000 0V560"/><path d="M1100 0V560"/><path d="M1200 0V560"/><path d="M1300 0V560"/><path d="M1400 0V560"/><path d="M1500 0V560"/><path d="M1600 0V560"/><path d="M1700 0V560"/><path d="M1800 0V560"/><path d="M0 0H1800"/><path d="M0 80H1800"/><path d="M0 160H1800"/><path d="M0 240H1800"/><path d="M0 320H1800"/><path d="M0 400H1800"/><path d="M0 480H1800"/><path d="M0 560H1800"/></g>
+<path d="M68 108H1731 M68 505H1731" stroke="#F6F5F1" stroke-opacity=".23" stroke-width="1"/>
+<path d="M68 108H238" stroke="#D89A72" stroke-width="2"/>
+<g transform="translate(77 52)" stroke="#D89A72" fill="none" stroke-width="2"><circle cx="17" cy="15" r="12"/><circle cx="17" cy="15" r="3" fill="#D89A72"/><path d="M17 -2V1M17 29V33M0 15H3M31 15H35"/></g>
+<text x="140" y="77" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" letter-spacing="3.1" fill="#F6F5F1">SPENCER H. WALKER</text>
+<text x="1730" y="77" text-anchor="end" font-family="monospace" font-size="12" letter-spacing="1" fill="#AAA8A5">PHILOSOPHY / COGNITION / RESEARCH SOFTWARE</text>
+<g font-family="'Arial Narrow',Impact,Arial,sans-serif" font-weight="900" fill="#F6F5F1" letter-spacing="-2">
+  <text x="76" y="222" font-size="125" textLength="630" lengthAdjust="spacingAndGlyphs">WHAT COUNTS</text>
+  <text x="109" y="343" font-size="125" textLength="145" lengthAdjust="spacingAndGlyphs">AS</text>
+  <text x="76" y="465" font-size="112" fill="#D89A72" textLength="710" lengthAdjust="spacingAndGlyphs">UNDERSTANDING?</text>
+</g>
+<path d="M76 360h635" stroke="#F6F5F1" stroke-opacity=".14"/>
+<text x="77" y="490" font-family="monospace" font-size="12" letter-spacing="1.2" fill="#DAD8D4">HUMAN–AI INTERACTION / EPISTEMIC TRUST</text>
+<g>
+<rect x="830" y="137" width="902" height="341" fill="#16191B" stroke="#F6F5F1" stroke-opacity=".23"/>
+<path d="M830 174H1732M830 446H1732" stroke="#F6F5F1" stroke-opacity=".2"/>
+<text x="852" y="160" fill="#F6F5F1" font-family="monospace" font-size="12" letter-spacing=".85">MIND / INFORMATION / INTELLIGENCE</text>
+<text x="1708" y="160" text-anchor="end" fill="#9F9D99" font-family="monospace" font-size="10">CONCEPTUAL DIAGRAM</text>
+<g fill="none" stroke="#F6F5F1" stroke-opacity=".13">
+<path d="M870 191V430"/><path d="M930 191V430"/><path d="M990 191V430"/><path d="M1050 191V430"/><path d="M1110 191V430"/><path d="M1170 191V430"/><path d="M1230 191V430"/><path d="M1290 191V430"/><path d="M1350 191V430"/><path d="M1410 191V430"/><path d="M1470 191V430"/><path d="M1530 191V430"/><path d="M1590 191V430"/><path d="M1650 191V430"/>
+<path d="M849 222H1716M849 282H1716M849 342H1716M849 402H1716"/>
+</g>
+<text x="886" y="198" fill="#D89A72" font-family="monospace" font-size="11">01 / OBSERVATION</text>
+<text x="1212" y="198" fill="#D89A72" font-family="monospace" font-size="11">02 / INFERENCE</text>
+<text x="1517" y="198" fill="#D89A72" font-family="monospace" font-size="11">03 / JUDGMENT</text>
+<g stroke="#F6F5F1" stroke-opacity=".38" fill="none" stroke-width="1.1">
+  <circle cx="1009" cy="306" r="85"/><circle cx="1009" cy="306" r="53" stroke-opacity=".2"/>
+  <circle cx="1331" cy="306" r="86"/><circle cx="1331" cy="306" r="55" stroke-opacity=".22"/>
+  <rect x="1533" y="260" width="145" height="94"/>
+  <path d="M1554 282H1656M1554 307H1624M1554 330H1656" stroke-opacity=".6"/>
+  <path d="M925 306H1094M1009 223V389M1245 306H1416M1331 223V389" stroke-opacity=".2"/>
+</g>
+<path d="M1094 306C1158 269 1192 269 1245 306M1094 309C1150 345 1191 343 1245 308" stroke="#D89A72" stroke-width="1.5" fill="none"/>
+<path d="M1418 306H1533m-13-6 13 6-13 6" stroke="#D89A72" stroke-width="1.5" fill="none"/>
+<g stroke="#F6F5F1" stroke-opacity=".42" fill="none">
+  <path d="M967 299 990 273 1051 266 1087 313 1022 335 967 299M990 273 1022 335M1051 266 1106 349 1087 313"/>
+  <path d="M1311 290 1367 266 1435 293 1397 323 1338 335 1311 290M1311 290 1397 323M1338 335 1367 266 1397 323"/>
+</g>
+<g><circle cx="967" cy="299" r="5" fill="#D89A72" fill-opacity=".96"/><circle cx="990" cy="273" r="3" fill="#F6F5F1" fill-opacity=".62"/><circle cx="1022" cy="335" r="3" fill="#F6F5F1" fill-opacity=".62"/><circle cx="1051" cy="266" r="3" fill="#F6F5F1" fill-opacity=".62"/><circle cx="1087" cy="313" r="5" fill="#D89A72" fill-opacity=".96"/><circle cx="1106" cy="349" r="3" fill="#F6F5F1" fill-opacity=".62"/><circle cx="1165" cy="286" r="3" fill="#F6F5F1" fill-opacity=".62"/><circle cx="1199" cy="312" r="3" fill="#F6F5F1" fill-opacity=".62"/><circle cx="1311" cy="290" r="5" fill="#D89A72" fill-opacity=".96"/><circle cx="1338" cy="335" r="3" fill="#F6F5F1" fill-opacity=".62"/><circle cx="1367" cy="266" r="3" fill="#F6F5F1" fill-opacity=".62"/><circle cx="1397" cy="323" r="3" fill="#F6F5F1" fill-opacity=".62"/><circle cx="1435" cy="293" r="5" fill="#D89A72" fill-opacity=".96"/><circle cx="1492" cy="306" r="3" fill="#F6F5F1" fill-opacity=".62"/><circle cx="1532" cy="276" r="3" fill="#F6F5F1" fill-opacity=".62"/></g>
+<circle cx="1609" cy="305" r="6" fill="#D89A72"/>
+<path d="M1654 386h34m-17-17v34" stroke="#D89A72" stroke-opacity=".65"/>
+<text x="859" y="465" fill="#F6F5F1" font-family="monospace" font-size="11" letter-spacing="1">MEASURED BEHAVIOR</text>
+<text x="1219" y="465" fill="#F6F5F1" font-family="monospace" font-size="11" letter-spacing="1">INTERPRETATION</text>
+<text x="1708" y="465" text-anchor="end" fill="#D89A72" font-family="monospace" font-size="11" letter-spacing="1">CALIBRATED TRUST</text>
+</g>
+<text x="78" y="540" fill="#AFAEAB" font-family="monospace" font-size="12" letter-spacing=".8">UNIVERSITY OF DENVER / INTERDISCIPLINARY RESEARCH</text>
+<text x="1730" y="540" text-anchor="end" fill="#AFAEAB" font-family="monospace" font-size="12" letter-spacing=".8">OBSERVATION  →  EXPLANATION  →  EVALUATION</text>
+</svg>
