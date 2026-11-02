@@ -4,13 +4,15 @@
 
 **[Nurowerx Research Stack](https://github.com/Nurowerx/research-stack)** is public research software connecting evidence provenance, deterministic evaluation, scientific visualization and reviewed corrections through **TRACE · LOOP · LENS · FRAME**.
 
-**Personal GitHub repository:** [SWALKERNURO/research-stack](https://github.com/SWALKERNURO/research-stack), Spencer H. Walker's linked fork. The [canonical Nurowerx repository](https://github.com/Nurowerx/research-stack) holds the release and citation record; use that release for DOI archiving.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23898164.svg)](https://doi.org/10.5281/zenodo.23898164)
+
+**Personal GitHub repository:** [SWALKERNURO/research-stack](https://github.com/SWALKERNURO/research-stack), Spencer H. Walker's linked fork. The [canonical Nurowerx repository](https://github.com/Nurowerx/research-stack) holds the upstream source and original release. The [personal v0.1.0 release](https://github.com/SWALKERNURO/research-stack/releases/tag/v0.1.0) preserves the same commit and is archived by Zenodo.
 
 **[v0.1.0 — Initial Public Research Release](https://github.com/Nurowerx/research-stack/releases/tag/v0.1.0)** includes complete source, NRS-Bench, versioned synthetic datasets, three technical reports and reproduction instructions. **54 automated tests passed** (35 backend, 12 visualization, 7 browser); clean reproduction passed on Windows, Linux and macOS. The historical 31-test development baseline is preserved separately.
 
-**Research scope:** Three seeds and 18 controlled synthetic executions; no real-model or human-user study, peer review or independent-party replication is claimed. Software is MIT; original datasets and papers are CC BY 4.0. Archival metadata is prepared; no DOI has been issued.
+**Research scope:** Three seeds and 18 controlled synthetic executions; no real-model or human-user study, peer review or independent-party replication is claimed. Software is MIT; original datasets and papers are CC BY 4.0. Software v0.1.0 is archived on Zenodo: [DOI 10.5281/zenodo.23898164](https://doi.org/10.5281/zenodo.23898164). Separate dataset and paper DOIs have not been issued.
 
-[Installation](https://github.com/Nurowerx/research-stack/blob/v0.1.0/docs/installation/README.md) · [Methods and raw evidence](https://github.com/Nurowerx/research-stack/blob/v0.1.0/docs/validation/README.md) · [Technical papers](https://github.com/Nurowerx/research-stack/tree/v0.1.0/research/papers) · [Static results demo](https://nurowerx.github.io/research-stack/) · [Citation](https://github.com/Nurowerx/research-stack/blob/v0.1.0/CITATION.cff)
+[Installation](https://github.com/Nurowerx/research-stack/blob/v0.1.0/docs/installation/README.md) · [Methods and raw evidence](https://github.com/Nurowerx/research-stack/blob/v0.1.0/docs/validation/README.md) · [Technical papers](https://github.com/Nurowerx/research-stack/tree/v0.1.0/research/papers) · [Static results demo](https://nurowerx.github.io/research-stack/) · [Citation and DOI](https://doi.org/10.5281/zenodo.23898164)
 
 ## Engineering and research contribution
 
