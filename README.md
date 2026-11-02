@@ -36,6 +36,7 @@ Explore the [research profile](https://github.com/SWALKERNURO/living-field/blob/
 
 | Project | Research purpose |
 | :--- | :--- |
+| **[Nurowerx Research Stack](./projects/RESEARCH-STACK.md)** · Nurowerx | TRACE (provenance), LOOP (evaluation), LENS (visualization), and FRAME (research workspace); full local dataset → review → rerun → report workflow, 31 developer-reported passing tests, and read-only ETL import verified. Source pending public release. |
 | **[Living Field](https://github.com/SWALKERNURO/living-field)** | Exploratory EEG/EOG visualization, aperiodic signal structure, and comparisons across recording conditions. |
 | **[Pink Noise Relational Field / NoiseColor](https://github.com/SWALKERNURO/pink-noise-relational-field)** | EEG/EOG visualization and a local-first tool for exploring audio spectral color. [Try NoiseColor](https://swalkernuro.github.io/pink-noise-relational-field/noisecolor/). |
 | **[Flux EEG](https://github.com/SWALKERNURO/flux-eeg)** | Local-first EEG spectral analysis and condition comparisons, with reproducible outputs and inspectable methods. |
