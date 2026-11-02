@@ -24,7 +24,13 @@ Explore the [research profile](https://github.com/SWALKERNURO/living-field/blob/
 
 ## Featured engineering: Nurowerx Research Stack
 
-**[TRACE · LOOP · LENS · FRAME](./projects/RESEARCH-STACK.md)** is an integrated local research platform for evidence provenance, repeatable evaluations, scientific visualization, and reviewable human correction. The complete reported workflow runs **dataset → evaluation → reviewed correction → rerun → report**, with **31 developer-reported passing tests**, a clean-install reproduction, and a verified **read-only ETL import**. Full source and engineering reports are still local; external validation or public deployment are not claimed.
+**[Nurowerx Research Stack](https://github.com/Nurowerx/research-stack)** is public research software connecting evidence provenance, deterministic evaluation, scientific visualization and reviewed corrections through **TRACE · LOOP · LENS · FRAME**.
+
+**[v0.1.0 — Initial Public Research Release](https://github.com/Nurowerx/research-stack/releases/tag/v0.1.0)** includes complete source, NRS-Bench, versioned synthetic datasets, three technical reports and reproduction instructions. **54 automated tests passed** (35 backend, 12 visualization, 7 browser); clean reproduction passed on Windows, Linux and macOS. The historical 31-test development baseline is preserved separately.
+
+**Research scope:** Three seeds and 18 controlled synthetic executions; no real-model or human-user study, peer review or independent-party replication is claimed. Software is MIT; original datasets and papers are CC BY 4.0. Archival metadata is prepared; no DOI has been issued.
+
+[Installation](https://github.com/Nurowerx/research-stack/blob/v0.1.0/docs/installation/README.md) · [Methods and raw evidence](https://github.com/Nurowerx/research-stack/blob/v0.1.0/docs/validation/README.md) · [Technical papers](https://github.com/Nurowerx/research-stack/tree/v0.1.0/research/papers) · [Static results demo](https://nurowerx.github.io/research-stack/) · [Citation](https://github.com/Nurowerx/research-stack/blob/v0.1.0/CITATION.cff)
 
 ## Featured project: Epistemic Trust Lab
 
@@ -36,7 +42,7 @@ Explore the [research profile](https://github.com/SWALKERNURO/living-field/blob/
 
 | Project | Research purpose |
 | :--- | :--- |
-| **[Nurowerx Research Stack](./projects/RESEARCH-STACK.md)** · Nurowerx | TRACE (provenance), LOOP (evaluation), LENS (visualization), and FRAME (research workspace); full local dataset → review → rerun → report workflow, 31 developer-reported passing tests, and read-only ETL import verified. Source pending public release. |
+| **[Nurowerx Research Stack](https://github.com/Nurowerx/research-stack)** · Nurowerx | Public v0.1.0: TRACE, LOOP, LENS and FRAME; 54 passing automated tests, cross-platform reproduction, original NRS-Bench fixtures and three technical reports. [Release](https://github.com/Nurowerx/research-stack/releases/tag/v0.1.0). Synthetic validation; no independent-party replication claimed. |
 | **[Living Field](https://github.com/SWALKERNURO/living-field)** | Exploratory EEG/EOG visualization, aperiodic signal structure, and comparisons across recording conditions. |
 | **[Pink Noise Relational Field / NoiseColor](https://github.com/SWALKERNURO/pink-noise-relational-field)** | EEG/EOG visualization and a local-first tool for exploring audio spectral color. [Try NoiseColor](https://swalkernuro.github.io/pink-noise-relational-field/noisecolor/). |
 | **[Flux EEG](https://github.com/SWALKERNURO/flux-eeg)** | Local-first EEG spectral analysis and condition comparisons, with reproducible outputs and inspectable methods. |
