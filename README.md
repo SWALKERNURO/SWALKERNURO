@@ -6,7 +6,7 @@
 
 I study **philosophy at the University of Denver**, with a focus on philosophy of mind, epistemology, and the relationship between human cognition and artificial intelligence. My earlier **B.S. in Neuroscience & Cognitive Science from the University of Arizona** informs an interdisciplinary approach that connects philosophical questions with empirical methods and research software.
 
-Much of my work asks what it means for an AI system to *appear* intelligent, how we assess what it actually does, and when people are justified in trusting its responses. I also founded **[Nurowerx](https://github.com/Nurowerx)**, where I work on research and technical development in intelligent systems.
+Much of my work asks what it means for an AI system to *appear* intelligent, how we assess what it actually does, and when people are justified in trusting its responses. I also founded **[Nurowerx](https://nurowerx.com)**, where I work on research and technical development in intelligent systems.
 
 ## Research focus: human–AI understanding and trust
 
@@ -40,6 +40,8 @@ My academic and technical interests bring together philosophical argument, cogni
 <details>
 <summary><strong>Selected AI and software coursework and certificates</strong></summary>
 
+- [Harvard CS50: Introduction to Programming with R](https://cs50.harvard.edu/certificates/bec999f5-0cb4-4098-b035-c176b1116f39) — completed six problem sets and a final project (2026).
+- [Harvard CS50: Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/314c6063-b010-48c1-b473-8d19ceb6b38c) — completed seven problem sets and a final project (2026).
 - [Harvard CS50: Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/0d86c122-ee78-41d1-a2a1-274c6548ac1c) — completed 12 projects.
 - [Hugging Face Agents Course](https://huggingface.co/agents-course) — Certificate of Excellence.
 - [University of Helsinki: Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/30bf26e52f85fb19c9458e01a077db9a).
@@ -51,6 +53,6 @@ My academic and technical interests bring together philosophical argument, cogni
 
 ## Connect
 
-My [ORCID research record](https://orcid.org/0009-0005-3574-1057) provides a scholarly identity separate from my company work. You can also explore [Nurowerx's research directions](https://github.com/Nurowerx) or contact me at [swalker@nurowerx.com](mailto:swalker@nurowerx.com).
+My [ORCID research record](https://orcid.org/0009-0005-3574-1057) provides a scholarly identity separate from my company work. Visit [Nurowerx's website](https://nurowerx.com), explore its [GitHub research organization](https://github.com/Nurowerx), or contact me at [swalker@nurowerx.com](mailto:swalker@nurowerx.com).
 
 <sub>University of Denver identifies my current enrollment and academic context; it does not imply university funding, sponsorship, ethics approval, or endorsement of independent research proposals.</sub>
