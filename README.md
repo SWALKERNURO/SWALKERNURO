@@ -60,18 +60,18 @@ My academic and technical interests bring together philosophical argument, cogni
 <details>
 <summary><strong>Selected AI and software coursework and certificates</strong></summary>
 
-- [Harvard CS50: Introduction to Programming with R](https://cs50.harvard.edu/certificates/bec999f5-0cb4-4098-b035-c176b1116f39) — completed six problem sets and a final project (2026).
-- [Harvard CS50: Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/314c6063-b010-48c1-b473-8d19ceb6b38c) — completed seven problem sets and a final project (2026).
+- [Harvard CS50: Introduction to Programming with R](https://cs50.harvard.edu/certificates/bec999f5-0cb4-4098-b035-c176b1116f39) — completed six problem sets and a final project.
+- [Harvard CS50: Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/314c6063-b010-48c1-b473-8d19ceb6b38c) — completed seven problem sets and a final project.
 - [Harvard CS50: Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/0d86c122-ee78-41d1-a2a1-274c6548ac1c) — completed 12 projects.
-- [Harvard CS50: Introduction to Programming with Python](https://cs50.harvard.edu/certificates/f382e48a-6236-4fab-b397-a6b7ed546991) — nine problem sets and a final project (2026).
-- [Stanford Code in Place: Self-Guided Curriculum](https://codeinplace.stanford.edu/public/studenthome#welcome) — completed the full public curriculum, including all required and optional coding challenges in Karel, Python fundamentals, control flow, graphics, lists, and dictionaries (2026; non-certificate course).
+- [Harvard CS50: Introduction to Programming with Python](https://cs50.harvard.edu/certificates/f382e48a-6236-4fab-b397-a6b7ed546991) — nine problem sets and a final project.
+- [Stanford Code in Place: Self-Guided Curriculum](https://codeinplace.stanford.edu/public/studenthome#welcome) — completed full course.
 - [MIT: Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) — MIT Open Learning Library.
 - [Agentic AI Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oci-agentic-ai-foundations-associate/163239) — Oracle University.
 - [Hugging Face MCP Course, Unit 1: Fundamentals of MCP](./credentials/mcp-fundamentals-unit-1.pdf) — certificate of achievement (2026).
 - [Hugging Face MCP Course, Unit 3: MCP for Production Automation](./credentials/mcp-production-automation-unit-3.pdf) — certificate of achievement (2026).
-- [Kaggle: Machine Learning Explainability](./credentials/kaggle-machine-learning-explainability.png) — certificate of completion (2026).
-- [Kaggle: Intermediate Machine Learning](./credentials/kaggle-intermediate-machine-learning.png) — certificate of completion (2026).
-- [Kaggle: Time Series](./credentials/kaggle-time-series.jpg) — certificate of completion (2026).
+- [Kaggle: Machine Learning Explainability](./credentials/kaggle-machine-learning-explainability.png) — certificate of completion.
+- [Kaggle: Intermediate Machine Learning](./credentials/kaggle-intermediate-machine-learning.png) — certificate of completion.
+- [Kaggle: Time Series](./credentials/kaggle-time-series.jpg) — certificate of completion.
 - [Hugging Face Agents Course](https://huggingface.co/agents-course) — Certificate of Excellence.
 - [University of Helsinki: Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/30bf26e52f85fb19c9458e01a077db9a).
 - [University of Helsinki: Ethics of AI](https://certificates.mooc.fi/validate/zt7sc83r99t).
