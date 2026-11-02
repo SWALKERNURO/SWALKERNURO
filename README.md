@@ -18,9 +18,15 @@ My proposed interdisciplinary research examines the difference between an AI sys
 - **Conversational realism:** How do naturalistic speech and contextual inference affect perceived competence, independently of task accuracy?
 - **Calibrated trust:** Can explanations, uncertainty, source attribution, and meaningful correction help people judge AI outputs more appropriately?
 
-This is a **research proposal in development**, not a report of completed participant studies or published experimental findings.
+These hypotheses remain **unvalidated with live language models or human participants**. A related deterministic synthetic evaluation instrument has now been built and tested locally, but its synthetic-policy results should not be confused with completed human-subject or real-model experiments.
 
 Explore the [research profile](https://github.com/SWALKERNURO/living-field/blob/main/RESEARCH-PROFILE.md), [research agenda](https://github.com/SWALKERNURO/living-field/blob/main/research/HUMAN-AI-INTERACTION-AGENDA.md), and [proposed study design](https://github.com/SWALKERNURO/living-field/blob/main/research/HUMAN-AI-INTERACTION-STUDY-DESIGN.md).
+
+## Featured project: Epistemic Trust Lab
+
+**[Epistemic Trust Lab — project overview](./projects/EPISTEMIC-TRUST-LAB.md)** is an implemented **local research instrument** for evaluating memory, context, and evidential support under controlled synthetic conditions. The reported build includes **240 synthetic scenarios**, **5,760 deterministic policy evaluations**, a memory/evidence inspection dashboard, uncertainty summaries, and **34 passing tests** (29 backend, 2 frontend, 3 browser). A clean-install reproduction was reported by the local build.
+
+**Research boundary:** These are synthetic-policy evaluations, not real-model benchmarking or human trust experiments. Source archive, research report, and public live demo have **not yet been released**; the [project overview](./projects/EPISTEMIC-TRUST-LAB.md) documents the claims and next steps.
 
 ## Selected research software
 
