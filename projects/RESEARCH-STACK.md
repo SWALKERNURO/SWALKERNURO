@@ -4,6 +4,8 @@
 
 **[Nurowerx Research Stack](https://github.com/Nurowerx/research-stack)** is public research software connecting evidence provenance, deterministic evaluation, scientific visualization and reviewed corrections through **TRACE · LOOP · LENS · FRAME**.
 
+**Personal GitHub repository:** [SWALKERNURO/research-stack](https://github.com/SWALKERNURO/research-stack), Spencer H. Walker's linked fork. The [canonical Nurowerx repository](https://github.com/Nurowerx/research-stack) holds the release and citation record; use that release for DOI archiving.
+
 **[v0.1.0 — Initial Public Research Release](https://github.com/Nurowerx/research-stack/releases/tag/v0.1.0)** includes complete source, NRS-Bench, versioned synthetic datasets, three technical reports and reproduction instructions. **54 automated tests passed** (35 backend, 12 visualization, 7 browser); clean reproduction passed on Windows, Linux and macOS. The historical 31-test development baseline is preserved separately.
 
 **Research scope:** Three seeds and 18 controlled synthetic executions; no real-model or human-user study, peer review or independent-party replication is claimed. Software is MIT; original datasets and papers are CC BY 4.0. Archival metadata is prepared; no DOI has been issued.
