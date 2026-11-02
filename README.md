@@ -65,8 +65,8 @@ My academic and technical interests bring together philosophical argument, cogni
 - [Harvard CS50: Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/0d86c122-ee78-41d1-a2a1-274c6548ac1c) — completed 12 projects.
 - [Harvard CS50: Introduction to Programming with Python](https://cs50.harvard.edu/certificates/f382e48a-6236-4fab-b397-a6b7ed546991) — nine problem sets and a final project (2026).
 - [Stanford Code in Place: Self-Guided Curriculum](https://codeinplace.stanford.edu/public/studenthome#welcome) — completed the full public curriculum, including all required and optional coding challenges in Karel, Python fundamentals, control flow, graphics, lists, and dictionaries (2026; non-certificate course).
-- [MIT 6.036: Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) — MIT Open Learning Library; completed November 2, 2026.
-- [Become an OCI Agentic AI Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oci-agentic-ai-foundations-associate/163239) — Oracle University; completed November 2, 2026.
+- [MIT: Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) — MIT Open Learning Library.
+- [Agentic AI Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oci-agentic-ai-foundations-associate/163239) — Oracle University.
 - [Hugging Face MCP Course, Unit 1: Fundamentals of MCP](./credentials/mcp-fundamentals-unit-1.pdf) — certificate of achievement (2026).
 - [Hugging Face MCP Course, Unit 3: MCP for Production Automation](./credentials/mcp-production-automation-unit-3.pdf) — certificate of achievement (2026).
 - [Kaggle: Machine Learning Explainability](./credentials/kaggle-machine-learning-explainability.png) — certificate of completion (2026).
