@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SWALKERNURO/living-field/main/research/assets/human-ai-research-banner.svg" alt="Spencer H. Walker | Philosophy of Mind, Human–AI Interaction, Information Science" width="100%">
+<img src="./assets/nurowerx-github-banner.svg" width="100%" alt="NUROWERX — THE NEXT FRONTIER IS HUMAN. Charcoal and warm-orange editorial banner with a schematic of context, inference, and human agency." />
 </p>
 
 # Spencer H. Walker
