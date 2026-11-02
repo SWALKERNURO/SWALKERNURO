@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/nurowerx-github-banner.svg" width="100%" alt="NUROWERX — THE NEXT FRONTIER IS HUMAN. Charcoal and warm-orange editorial banner with a schematic of context, inference, and human agency." />
+<img src="[./assets/nurowerx-github-banner.svg" width="100%" alt="NUROWERX — THE NEXT FRONTIER IS HUMAN. Charcoal and warm-orange editorial banner with a schematic of context, inference, and human agency.](https://raw.githubusercontent.com/Nurowerx/.github/76d57a523d68a0d071878b11d856eba52c86dd6c/profile/assets/nurowerx-github-banner.svg)" />
 
 </div>
 
