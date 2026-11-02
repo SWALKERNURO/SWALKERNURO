@@ -22,6 +22,10 @@ These hypotheses remain **unvalidated with live language models or human partici
 
 Explore the [research profile](https://github.com/SWALKERNURO/living-field/blob/main/RESEARCH-PROFILE.md), [research agenda](https://github.com/SWALKERNURO/living-field/blob/main/research/HUMAN-AI-INTERACTION-AGENDA.md), and [proposed study design](https://github.com/SWALKERNURO/living-field/blob/main/research/HUMAN-AI-INTERACTION-STUDY-DESIGN.md).
 
+## Featured engineering: Nurowerx Research Stack
+
+**[TRACE · LOOP · LENS · FRAME](./projects/RESEARCH-STACK.md)** is an integrated local research platform for evidence provenance, repeatable evaluations, scientific visualization, and reviewable human correction. The complete reported workflow runs **dataset → evaluation → reviewed correction → rerun → report**, with **31 developer-reported passing tests**, a clean-install reproduction, and a verified **read-only ETL import**. Full source and engineering reports are still local; external validation or public deployment are not claimed.
+
 ## Featured project: Epistemic Trust Lab
 
 **[Epistemic Trust Lab — project overview](./projects/EPISTEMIC-TRUST-LAB.md)** is an implemented **local research instrument** for evaluating memory, context, and evidential support under controlled synthetic conditions. The reported build includes **240 synthetic scenarios**, **5,760 deterministic policy evaluations**, a memory/evidence inspection dashboard, uncertainty summaries, and **34 passing tests** (29 backend, 2 frontend, 3 browser). A clean-install reproduction was reported by the local build.
