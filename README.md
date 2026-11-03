@@ -69,8 +69,8 @@ My academic and technical interests bring together philosophical argument, cogni
 - [Stanford Code in Place: Self-Guided Curriculum](https://codeinplace.stanford.edu/public/studenthome#welcome) — completed full course.
 - [MIT: Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) — MIT Open Learning Library.
 - [Agentic AI Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oci-agentic-ai-foundations-associate/163239) — Oracle University.
-- [Hugging Face MCP Course, Unit 1: Fundamentals of MCP](./credentials/mcp-fundamentals-unit-1.pdf) — certificate of achievement (2026).
-- [Hugging Face MCP Course, Unit 3: MCP for Production Automation](./credentials/mcp-production-automation-unit-3.pdf) — certificate of achievement (2026).
+- [Hugging Face MCP Course, Unit 1: Fundamentals of MCP](./credentials/mcp-fundamentals-unit-1.pdf) — certificate of achievement.
+- [Hugging Face MCP Course, Unit 3: MCP for Production Automation](./credentials/mcp-production-automation-unit-3.pdf) — certificate of achievement.
 - [Kaggle: Machine Learning Explainability](./credentials/kaggle-machine-learning-explainability.png) — certificate of completion.
 - [Kaggle: Intermediate Machine Learning](./credentials/kaggle-intermediate-machine-learning.png) — certificate of completion.
 - [Kaggle: Time Series](./credentials/kaggle-time-series.jpg) — certificate of completion.
