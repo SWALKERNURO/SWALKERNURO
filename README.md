@@ -69,7 +69,7 @@ My academic and technical interests bring together philosophical argument, cogni
 - **[Harvard CS50 — Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/314c6063-b010-48c1-b473-8d19ceb6b38c)** — Relational databases and SQL.
 - **[Harvard CS50 — Introduction to Programming with R](https://cs50.harvard.edu/certificates/bec999f5-0cb4-4098-b035-c176b1116f39)** — R programming and data analysis.
 - **[MIT Open Learning Library — Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)** — Machine learning models and computational methods.
-- **[Stanford — Code in Place: Self-Guided Curriculum](https://codeinplace.stanford.edu/public/studenthome#welcome)** — Python fundamentals and problem-solving; self-guided.
+- **[Stanford — Code in Place](https://codeinplace.stanford.edu/public/studenthome#welcome)** — Python fundamentals and problem-solving.
 - **[University of Helsinki — Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/30bf26e52f85fb19c9458e01a077db9a)** — Modern web application development.
 - **[University of Helsinki — Full Stack Open: State Management](https://courses.mooc.fi/certificates/validate/5fg2gem9cfxe58u)** — Application state management in React.
 - **[University of Helsinki — Ethics of AI](https://certificates.mooc.fi/validate/zt7sc83r99t)** — Ethical analysis of artificial intelligence.
