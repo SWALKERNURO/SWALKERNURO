@@ -62,6 +62,15 @@ My academic and technical interests bring together philosophical argument, cogni
 <details>
 <summary><strong>Selected AI and software coursework and certificates</strong></summary>
 
+**Newly completed technical coursework and credentials (November 2026)**
+
+- **OpenAI Academy — [Apply AI at Work](https://academy.openai.com/pages/courses) pathway completion certificate** — completed AI Foundations, Applied AI Foundations, and Agents and Workflows, with each assessment passed at 80% or higher (issued Nov 2, 2026; expires May 2, 2027). *Academy pathway completion, not a professional certification.*
+- **Cisco Networking Academy — [Data Science Essentials with Python](https://www.netacad.com/recognitions/verify/d02e6d2c-3866-4757-8d3a-6ad2f1327274)** — course completion certificate, Nov 4, 2026.
+- **Cisco Networking Academy — [Ethical Hacker](https://www.netacad.com/recognitions/verify/fc08a67d-eeb1-49d0-bbc0-5da7c643ee05)** — course completion certificate, Nov 3, 2026; not the EC-Council CEH certification.
+- **Cisco Networking Academy / NDG — [Linux Essentials](https://www.netacad.com/recognitions/verify/1a79687e-6059-4395-917a-2d172216ca7d)** — course completion certificate, Nov 4, 2026; not an LPI certification-exam credential.
+- **University of Helsinki / Full Stack Open — [State Management (1 ECTS)](https://courses.mooc.fi/certificates/validate/5fg2gem9cfxe58u)** — additional course completion certificate, Nov 2, 2026.
+
+**Other selected coursework and certificates**
 - [Harvard CS50: Introduction to Programming with R](https://cs50.harvard.edu/certificates/bec999f5-0cb4-4098-b035-c176b1116f39) — completed six problem sets and a final project.
 - [Harvard CS50: Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/314c6063-b010-48c1-b473-8d19ceb6b38c) — completed seven problem sets and a final project.
 - [Harvard CS50: Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/0d86c122-ee78-41d1-a2a1-274c6548ac1c) — completed 12 projects.
