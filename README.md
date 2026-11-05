@@ -71,6 +71,7 @@ My academic and technical interests bring together philosophical argument, cogni
 - **University of Helsinki / Full Stack Open — [State Management (1 ECTS)](https://courses.mooc.fi/certificates/validate/5fg2gem9cfxe58u)** — additional course completion certificate, Nov 2, 2026.
 
 **Other selected coursework and certificates**
+
 - [Harvard CS50: Introduction to Programming with R](https://cs50.harvard.edu/certificates/bec999f5-0cb4-4098-b035-c176b1116f39) — completed six problem sets and a final project.
 - [Harvard CS50: Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/314c6063-b010-48c1-b473-8d19ceb6b38c) — completed seven problem sets and a final project.
 - [Harvard CS50: Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/0d86c122-ee78-41d1-a2a1-274c6548ac1c) — completed 12 projects.
