@@ -60,35 +60,35 @@ The neuroscience tools are **exploratory research instruments**, not clinical or
 My academic and technical interests bring together philosophical argument, cognitive science, scientific computing, and AI systems. I favor reproducible methods, careful attribution of evidence, explicit uncertainty, and human oversight in the design of intelligent systems.
 
 <details>
-<summary><strong>Selected AI and software coursework and certificates</strong></summary>
+<summary><strong>Selected technical education and credentials</strong></summary>
 
-**Newly completed technical coursework and credentials (November 2026)**
+**Academic coursework**
 
-- **OpenAI Academy — [Apply AI at Work](https://academy.openai.com/pages/courses) pathway completion certificate** — completed AI Foundations, Applied AI Foundations, and Agents and Workflows, with each assessment passed at 80% or higher (issued Nov 2, 2026; expires May 2, 2027). *Academy pathway completion, not a professional certification.*
-- **Cisco Networking Academy — [Data Science Essentials with Python](https://www.netacad.com/recognitions/verify/d02e6d2c-3866-4757-8d3a-6ad2f1327274)** — course completion certificate, Nov 4, 2026.
-- **Cisco Networking Academy — [Ethical Hacker](https://www.netacad.com/recognitions/verify/fc08a67d-eeb1-49d0-bbc0-5da7c643ee05)** — course completion certificate, Nov 3, 2026; not the EC-Council CEH certification.
-- **Cisco Networking Academy / NDG — [Linux Essentials](https://www.netacad.com/recognitions/verify/1a79687e-6059-4395-917a-2d172216ca7d)** — course completion certificate, Nov 4, 2026; not an LPI certification-exam credential.
-- **University of Helsinki / Full Stack Open — [State Management (1 ECTS)](https://courses.mooc.fi/certificates/validate/5fg2gem9cfxe58u)** — additional course completion certificate, Nov 2, 2026.
+- **[Harvard CS50 — Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/0d86c122-ee78-41d1-a2a1-274c6548ac1c)** — AI algorithms, search, and machine learning.
+- **[Harvard CS50 — Introduction to Programming with Python](https://cs50.harvard.edu/certificates/f382e48a-6236-4fab-b397-a6b7ed546991)** — Python programming and software fundamentals.
+- **[Harvard CS50 — Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/314c6063-b010-48c1-b473-8d19ceb6b38c)** — Relational databases and SQL.
+- **[Harvard CS50 — Introduction to Programming with R](https://cs50.harvard.edu/certificates/bec999f5-0cb4-4098-b035-c176b1116f39)** — R programming and data analysis.
+- **[MIT Open Learning Library — Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)** — Machine learning models and computational methods.
+- **[Stanford — Code in Place: Self-Guided Curriculum](https://codeinplace.stanford.edu/public/studenthome#welcome)** — Python fundamentals and problem-solving; self-guided.
+- **[University of Helsinki — Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/30bf26e52f85fb19c9458e01a077db9a)** — Modern web application development.
+- **[University of Helsinki — Full Stack Open: State Management (1 ECTS)](https://courses.mooc.fi/certificates/validate/5fg2gem9cfxe58u)** — Application state management in React.
+- **[University of Helsinki — Ethics of AI](https://certificates.mooc.fi/validate/zt7sc83r99t)** — Ethical analysis of artificial intelligence.
 
-**Other selected coursework and certificates**
+**Professional credentials and applied training**
 
-- [Harvard CS50: Introduction to Programming with R](https://cs50.harvard.edu/certificates/bec999f5-0cb4-4098-b035-c176b1116f39) — completed six problem sets and a final project.
-- [Harvard CS50: Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/314c6063-b010-48c1-b473-8d19ceb6b38c) — completed seven problem sets and a final project.
-- [Harvard CS50: Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/0d86c122-ee78-41d1-a2a1-274c6548ac1c) — completed 12 projects.
-- [Harvard CS50: Introduction to Programming with Python](https://cs50.harvard.edu/certificates/f382e48a-6236-4fab-b397-a6b7ed546991) — nine problem sets and a final project.
-- [Stanford Code in Place: Self-Guided Curriculum](https://codeinplace.stanford.edu/public/studenthome#welcome) — completed full course.
-- [MIT: Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) — MIT Open Learning Library.
-- [Agentic AI Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oci-agentic-ai-foundations-associate/163239) — Oracle University.
-- [Hugging Face MCP Course, Unit 1: Fundamentals of MCP](./credentials/mcp-fundamentals-unit-1.pdf) — certificate of achievement.
-- [Hugging Face MCP Course, Unit 3: MCP for Production Automation](./credentials/mcp-production-automation-unit-3.pdf) — certificate of achievement.
-- [Kaggle: Machine Learning Explainability](./credentials/kaggle-machine-learning-explainability.png) — certificate of completion.
-- [Kaggle: Intermediate Machine Learning](./credentials/kaggle-intermediate-machine-learning.png) — certificate of completion.
-- [Kaggle: Time Series](./credentials/kaggle-time-series.jpg) — certificate of completion.
-- [Hugging Face Agents Course](https://huggingface.co/agents-course) — Certificate of Excellence.
-- [University of Helsinki: Full Stack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/30bf26e52f85fb19c9458e01a077db9a).
-- [University of Helsinki: Ethics of AI](https://certificates.mooc.fi/validate/zt7sc83r99t).
-- [UNESCO / LG AI Research: Global MOOC on the Ethics of AI](https://coursera.org/verify/LO9X8AT36AFM).
-- [Microsoft / freeCodeCamp: Foundational C# Developer Certification](https://freecodecamp.org/certification/shwalker/foundational-c-sharp-with-microsoft).
+- **[Oracle University — Agentic AI Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oci-agentic-ai-foundations-associate/163239)** — Agentic AI concepts and workflows.
+- **[Microsoft / freeCodeCamp — Foundational C# Developer Certification](https://freecodecamp.org/certification/shwalker/foundational-c-sharp-with-microsoft)** — C# programming and software development.
+- **[Cisco Networking Academy — Data Science Essentials with Python](https://www.netacad.com/recognitions/verify/d02e6d2c-3866-4757-8d3a-6ad2f1327274)** — Python-based data science and analysis.
+- **[Cisco Networking Academy — Ethical Hacker](https://www.netacad.com/recognitions/verify/fc08a67d-eeb1-49d0-bbc0-5da7c643ee05)** — Ethical hacking and cybersecurity fundamentals.
+- **[Cisco Networking Academy / NDG — Linux Essentials](https://www.netacad.com/recognitions/verify/1a79687e-6059-4395-917a-2d172216ca7d)** — Linux systems and command-line fundamentals.
+- **[Hugging Face — Agents Course](https://huggingface.co/agents-course)** — AI agent architectures and tool use.
+- **[Hugging Face — MCP: Fundamentals](./credentials/mcp-fundamentals-unit-1.pdf)** — Model Context Protocol fundamentals.
+- **[Hugging Face — MCP: Production Automation](./credentials/mcp-production-automation-unit-3.pdf)** — MCP integration and automation.
+- **[OpenAI Academy — Apply AI at Work](https://academy.openai.com/pages/courses)** — AI foundations, agents, and workflows.
+- **[Kaggle — Machine Learning Explainability](./credentials/kaggle-machine-learning-explainability.png)** — Model interpretation and explainability.
+- **[Kaggle — Intermediate Machine Learning](./credentials/kaggle-intermediate-machine-learning.png)** — Applied modeling and machine learning pipelines.
+- **[Kaggle — Time Series](./credentials/kaggle-time-series.jpg)** — Time-series analysis and forecasting.
+- **[UNESCO / LG AI Research — Global MOOC on the Ethics of AI](https://coursera.org/verify/LO9X8AT36AFM)** — Responsible AI and ethical governance.
 
 </details>
 
